@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "maia2-stubs"
-version = "0.1.0"
+version = "0.1.1"
 description = "Typing stubs for the maia2 package"
 readme = "README.md"
 license = {file = "LICENSE"}
